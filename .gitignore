@@ -1,4 +1,9 @@
 *~
+writings_raw/*.pdf
+writings_raw/*.txt
+casefiles_raw/*
+!casefiles_raw/*.csv
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
